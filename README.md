@@ -1,6 +1,6 @@
 <a href="https://shubhamcodes.vercel.app/"><h1 align="center">Shubham</h1></a>
 
-![portfolio site](./public/img/portfolio.jpg)
+![portfolio site](./public/img/portfolio.png)
 
 My portfolio built with Next.js and Tailwind CSS. It is available in light as well as in dark themes.
 

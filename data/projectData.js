@@ -1,53 +1,33 @@
 export const projectData = [
   {
-    name: "NoteWind",
+    name: "MrConvertor",
     alt: "A device showing screenshot of notewind project",
-    img: "/img/notewind.png",
+    img: "/img/mrconvertor.png",
     description:
-      "NoteWind is a note-taking app that allows you to create, edit, delete, and archive notes. Users can sign in and sign out using firebase authentication. You can filter as well as search notes. It also has features like changing note backgrounds, pin and unpin notes, and adding, editing, or removing labels.",
+      "MrConvertor is a user-friendly web app built with ReactJS that lets you easily convert text between uppercase and lowercase, remove extra spaces, and copy the results with just one click. It also offers a stylish dark mode for a comfortable reading experience. Whether you need to tidy up text or change its case, MrConvertor makes it quick!..",
     techStack: "Firebase, React.js, Tailwind CSS, Jest, Testing Library",
-    live: "http://notewind.netlify.app/",
-    code: "https://github.com/sneharatnani/notewind",
+    live: "https:/mrconvertorr.web.app/",
+    code: "https://github.com/Shubham1322c/MrConvertor",
   },
   {
-    name: "Shopping Cart",
+    name: "NewsMatters",
     alt: "A device showing screenshot of shopping cart website",
-    img: "/img/shopping-cart.png",
+    img: "/img/news.png",
     description:
-      "This is an eCommerce website built with React.js. Users can browse the available products and give orders with a fully functional cart. You can also check individual product details and adjust the number of products you want to buy.",
-    techStack: "React.js, Redux, Tailwind CSS",
-    live: "https://sneharatnani.github.io/shopping-cart/",
-    code: "https://github.com/sneharatnani/shopping-cart",
+      "Class Based React-powered news app with real-time data from NewsAPI. Customize news feeds, ensure reliability, and empower users with insightful content. A Revolutionize news consumption! 📰🚀.",
+    techStack: "React.js, Javascript, CSS, JSX",
+    live: "https://github.com/Shubham1322c/NewsMatters",
+    code: "https://github.com/Shubham1322c/NewsMatters",
   },
   {
     name: "Weather App",
     alt: "A device showing screenshot of weather app",
-    img: "/img/weather-app.png",
+    img: "/img/weather.png",
     description:
       "This app shows the current weather of a city. It uses OpenWeatherMap API to fetch the weather data. It can also show weather based on the user's current location using Geolocation API. The app changes the background according to different weather conditions.",
     techStack:
-      "JavaScript, HTML, CSS, Webpack, Jest, OpenWeatherMap API, Geolocation API",
-    live: "https://sneharatnani.github.io/weather-app/",
-    code: "https://github.com/sneharatnani/weather-app",
-  },
-  {
-    name: "Memory Game",
-    alt: "A device showing screenshot of memory game",
-    img: "/img/memory-game.png",
-    description:
-      "As the name suggests, it is a game to test players' memory. The emojis shuffle after every selection. The goal is to maximize your score by not selecting the same emoji again. The game shows the current and best score of a player. It is Unit Tested with Jest and React Testing Library.",
-    techStack: "React.js, Tailwind CSS, Jest, Testing Library",
-    live: "https://sneharatnani.github.io/memory-game/",
-    code: "https://github.com/sneharatnani/memory-game",
-  },
-  {
-    name: "Calculator",
-    alt: "A device showing screenshot of calculator",
-    img: "/img/calculator.png",
-    description:
-      "It is a simple Javascript calculator which can handle your daily calculations easily. It also has keyboard support.",
-    techStack: "JavaScript, HTML, CSS",
-    live: "https://sneharatnani.github.io/calculator/",
-    code: "https://github.com/sneharatnani/calculator",
-  },
+      "JavaScript, HTML, CSS, OpenWeatherMap API, Geolocation API",
+    live: "https://github.com/Shubham1322c/Weather_app",
+    code: "https://github.com/Shubham1322c/Weather_app",
+  }
 ];

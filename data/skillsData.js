@@ -16,28 +16,8 @@ export const skillsData = [
     caption: "React.js",
   },
   {
-    image: "/icons/redux.svg",
-    caption: "Redux",
-  },
-  {
-    image: "/icons/tailwindcss.svg",
-    caption: "Tailwind CSS",
-  },
-  {
     image: "/icons/firebase.svg",
     caption: "Firebase",
-  },
-  {
-    image: "/icons/webpack.svg",
-    caption: "Webpack",
-  },
-  {
-    image: "/icons/jest.svg",
-    caption: "Jest",
-  },
-  {
-    image: "/icons/nextjs.svg",
-    caption: "Next.js",
   },
 
   {
@@ -55,9 +35,5 @@ export const skillsData = [
   {
     image: "/icons/linux.svg",
     caption: "Linux CLI",
-  },
-  {
-    image: "/icons/netlify.svg",
-    caption: "Netlify",
-  },
+  }
 ];

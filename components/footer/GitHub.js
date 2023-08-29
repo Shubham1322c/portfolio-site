@@ -1,7 +1,7 @@
 export default function GitHub() {
   return (
     <a
-      href="https://github.com/sneharatnani"
+      href="https://github.com/Shubham1322c"
       rel="noreferrer"
       target="_blank"
       className="bg-white dark:bg-gray-600 dark:shadow-gray-900 p-2 rounded-full shadow-xl group"

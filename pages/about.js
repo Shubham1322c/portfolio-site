@@ -3,7 +3,7 @@ import Layout from "../components/Layout.js";
 
 export default function About() {
   return (
-    <Layout metaTitle="About Me - Sneha Ratnani">
+    <Layout metaTitle="About Me - SHUBHAM">
       <>
         <section className="w-11/12 mx-auto mt-6 mb-12 sm:w-5/6 lg:w-2/3 xl:w-[54rem]">
           <p className="text-center text-4xl font-semibold capitalize">
@@ -15,9 +15,9 @@ export default function About() {
           </p>
           <div className="mt-6 leading-7">
             <p className="mb-6">
-              Hi, I&#39;m Sneha Ratnani. I&#39;m a front-end web developer from
+              Hi, I&#39;m Shubham. I&#39;m a web developer from
               India. I enjoy seeking out creative solutions to complex problems.
-              It was back in late 2021 when I got interested in Web Development
+              It was back in late 2020 when I got interested in Web Development
               and decided to learn HTML & CSS. Fast forward to today, I learned
               various web technologies and their best practices and built
               several fun and exciting projects.
@@ -30,27 +30,18 @@ export default function About() {
             </p>
             <p className="mb-6">
               In my free time, I get inspiration from other people&#39;s work
-              and try out new technologies to build side projects. Apart from
-              that, I also{" "}
-              <a
-                href="https://www.goodreads.com/sneharatnani"
-                rel="noreferrer"
-                target="_blank"
-                className="text-green underline font-medium dark:text-mustard"
-              >
-                read books
-              </a>{" "}
-              sometimes.
+              and try out new technologies to build side projects.
+    
             </p>
             <p className="mb-6">
               Feel free to reach out and say hello at:{" "}
               <a
-                href="mailto:sneharatnani5@gmail.com"
+                href="mailto:shubham1322c@gmail.com"
                 rel="noreferrer"
                 target="_blank"
                 className="text-green underline font-medium dark:text-mustard"
               >
-                sneharatnani5@gmail.com
+                shubham1322c@gmail.com
               </a>
             </p>
           </div>

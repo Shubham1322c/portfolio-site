@@ -18,17 +18,17 @@ export default function Layout({ children, metaTitle }) {
         />
         <meta
           property="og:url"
-          content={`https://sneharatnani.com${router.asPath}`}
+          content={`https://shubham-1322c.web.app${router.asPath}`}
         />
         <link
           rel="canonical"
-          href={`https://sneharatnani.com${router.asPath}`}
+          href={`https://shubham-1322c.web.app${router.asPath}`}
         />
         <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="Sneha Ratnani" />
+        <meta property="og:site_name" content="Shubham" />
         <meta
           property="og:description"
-          content="I'm a front-end web developer and designer"
+          content="I'm a web developer and designer"
         />
         <meta property="og:title" content={metaTitle} />
       </Head>

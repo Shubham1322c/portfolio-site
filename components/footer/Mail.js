@@ -1,7 +1,7 @@
 export default function Mail() {
   return (
     <a
-      href="mailto:sneharatnani5@gmail.com"
+      href="mailto:shubham1322c@gmail.com"
       rel="noreferrer"
       target="_blank"
       className="bg-white dark:bg-gray-600 dark:shadow-gray-900 p-2 rounded-full shadow-xl group"

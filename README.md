@@ -10,7 +10,7 @@ My portfolio built with Next.js and Tailwind CSS. It is available in light as we
 
 ```bash
 # clone repo
-git clone https://github.com/sneharatnani/portfolio-site.git
+git clone https://github.com/Shubham1322c/portfolio-site.git
 
 # changing directory
 cd portfolio-site
